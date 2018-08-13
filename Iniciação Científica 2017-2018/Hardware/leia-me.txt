@@ -1,0 +1,2 @@
+Estes arquivos possuem as informações sobre os circuitos
+da ECU. Devem ser abertos com o software Eagle da Autodesk.
