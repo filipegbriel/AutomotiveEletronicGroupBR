@@ -1,0 +1,21 @@
+_SPI_SLAVE1: CODE, 4918 0 18
+_main: CODE, 4252 0 368
+_conta_dente: CODE, 2412 0 1840
+i2_Set_Timer1: CODE, 4966 0 10
+__initialization: CODE, 4680 0 48
+_isr: CODE, 24 0 390
+_No_Analogs: CODE, 4734 0 42
+_Make_16: CODE, 4810 0 26
+_Config_Timer0: CODE, 4836 0 22
+_Config_Timer1: CODE, 4858 0 20
+_Config_Timer2: CODE, 4878 0 20
+_Config_Timer3: CODE, 4898 0 20
+_Configure_HW: CODE, 4620 0 60
+_Get_Timer1: CODE, 4776 0 34
+_Confi_Int_Ext0: CODE, 4976 0 8
+_Set_Timer0: CODE, 4956 0 10
+_Set_Timer1: CODE, 4936 0 10
+_Set_Timer2: CODE, 4984 0 6
+_Set_Timer3: CODE, 4946 0 10
+_isr2: CODE, 8 0 2404
+Total: 5366
